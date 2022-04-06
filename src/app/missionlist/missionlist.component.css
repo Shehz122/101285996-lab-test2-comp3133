@@ -1,0 +1,33 @@
+.mainHolder {
+	padding-top: 34px;
+}
+.list {
+	margin: 8px;
+	padding: 8px;
+	border-radius: 6px;
+	background: rgb(0, 0, 0);
+}
+
+.img1 {
+	width: 100px;
+	height: 100px;
+	float: left;
+    margin-bottom: 20px;
+}
+
+.list-item {
+    padding-left: 30px;
+    font-weight: bold;
+    color: rgb(23, 61, 186);
+}
+.list-detail{
+    padding-left: 130px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+.list-button{
+    padding-left: 130px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
